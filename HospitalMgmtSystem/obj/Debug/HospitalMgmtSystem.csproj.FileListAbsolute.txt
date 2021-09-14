@@ -1,0 +1,7 @@
+C:\Users\ppaul\source\repos\HospitalMgmtSystem\obj\Debug\HospitalMgmtSystem.csproj.AssemblyReference.cache
+C:\Users\ppaul\source\repos\HospitalMgmtSystem\obj\Debug\HospitalMgmtSystem.csproj.CoreCompileInputs.cache
+C:\Users\ppaul\source\repos\HospitalMgmtSystem\bin\Debug\HospitalMgmtSystem.exe.config
+C:\Users\ppaul\source\repos\HospitalMgmtSystem\bin\Debug\HospitalMgmtSystem.exe
+C:\Users\ppaul\source\repos\HospitalMgmtSystem\bin\Debug\HospitalMgmtSystem.pdb
+C:\Users\ppaul\source\repos\HospitalMgmtSystem\obj\Debug\HospitalMgmtSystem.exe
+C:\Users\ppaul\source\repos\HospitalMgmtSystem\obj\Debug\HospitalMgmtSystem.pdb
